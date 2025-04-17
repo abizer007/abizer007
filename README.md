@@ -1,4 +1,4 @@
-# 💫 About Me:
+ # 💫 About Me:
 👋 Hi, I’m @abizer007<br>👀 I’m interested in coding and computer sicience.<br>🌱 I’m currently studying btech in nmims, mumbai.<br>💞️ I’m looking to collaborate on coding projects that are about developement.<br>📫 How to reach me at abizermasavi@gmail.com, or Abizer Masavi on linkedin.<br>LeetCode Profile - https://leetcode.com/u/abizer_masavi/<br>Hackerrank Profile - https://www.hackerrank.com/dashboard<br>About me -<br>I'm a B.Tech student majoring in Computer Science and Business Systems at MPSTME, deeply passionate about technology and innovation. With a background in public speaking,event management, and dlebating, I've honed my skills as the Cultural Captain at Diamond Jubilee High School. I'm committed to leveraging my diverse experiences to drive technological advancements and make a meaningful impact.
 
 
@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abizer007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abizer007&theme=dark&hide_border=false)<br/>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abizer007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abizer007&limit=5&theme=dark&combine_all_yearly_contributions=true)
