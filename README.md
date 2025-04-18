@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abizer007&color=orange" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=abizer007&color=blueviolet" alt="Visitor Count"/>
 </p>
 
 <p align="center">
