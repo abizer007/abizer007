@@ -25,7 +25,7 @@
 ---
 
 ### 💫 Who Am I?
-- 🎓 CSBS @ **MPSTME, NMIMS Mumbai**
+- 🎓 B.tech CSBS @ **MPSTME, NMIMS Mumbai**
 - 💼 Passionate about **Full-Stack Development** & **FinTech Innovation**
 - 🎤 Experienced in **Debating, Public Speaking & Event Management**
 - 🛠 Currently building dev projects and solving challenges on **LeetCode & HackerRank**
