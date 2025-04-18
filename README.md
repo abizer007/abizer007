@@ -34,8 +34,6 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=Abizer007&label=PROFILE+VIEWS&style=for-the-badge&color=blue)
-
 
 
 
