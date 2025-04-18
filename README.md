@@ -101,17 +101,29 @@
 ![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Acrobat](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abizer007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abizer007&theme=dark&hide_border=false&cache_seconds=1)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abizer007&layout=compact&hide_border=false&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abizer007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=86400" width="47%"/>
+  <img src="https://streak-stats.demolab.com?user=Abizer007&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=86400" width="47%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abizer007&layout=compact&theme=tokyonight&hide_border=false&langs_count=6&card_width=320&cache_seconds=86400" width="45%" />
+</p>
+
+
 
 ---
 
-### 🔝 Top Contributed Repo
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=Abizer007&limit=5&theme=dark&combine_all_yearly_contributions=true&cache=1)
+### 🔝 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Abizer007&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&cache_seconds=86400" width="80%" />
+</p>
 
 ---
+
 
 
 
