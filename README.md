@@ -14,10 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe5,100:0077ff&height=180&section=header&text=Abizer%20Masavi%20|%20Tech%20x%20Finance%20Explorer&fontSize=28&fontColor=ffffff&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C00FF,100:E100FF&height=180&section=header&text=Abizer%20Masavi%20|%20Tech%20x%20Finance%20Explorer&fontSize=28&fontColor=ffffff&fontAlignY=35&animation=twinkling" />
 </p>
 
-<!-- ⌨️ Typing Effect (Fully Working) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFE5&center=true&vCenter=true&width=1000&lines=Crafting+Future-Ready+Tech+⚙️;Exploring+FinTech+Horizons+💹;Speaker+%7C+Developer+%7C+Learner+🚀" />
 </p>
