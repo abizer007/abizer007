@@ -1,5 +1,20 @@
+<h1 align="center">
+  🚀 Hi, I'm Abizer Masavi!
+</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=47F5A9&center=true&width=950&lines=Solving+Problems,+Building+Solutions,+Coding+Dreams." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Finance Enthusiast • Tech Explorer • Aspiring Full Stack Developer
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abizer007&color=orange" alt="Visitor Count"/>
+</p>
+
  # 💫 About Me:
-👋 Hi, I’m @abizer007<br>👀 I’m interested in coding and computer sicience.<br>🌱 I’m currently studying btech in nmims, mumbai.<br>💞️ I’m looking to collaborate on coding projects that are about developement.<br>📫 How to reach me at abizermasavi@gmail.com, or Abizer Masavi on linkedin.<br>LeetCode Profile - https://leetcode.com/u/abizer_masavi/<br>Hackerrank Profile - https://www.hackerrank.com/dashboard<br>About me -<br>I'm a B.Tech student majoring in Computer Science and Business Systems at MPSTME, deeply passionate about technology and innovation. With a background in public speaking,event management, and dlebating, I've honed my skills as the Cultural Captain at Diamond Jubilee High School. I'm committed to leveraging my diverse experiences to drive technological advancements and make a meaningful impact.
+👀 I’m interested in coding and computer sicience.<br>🌱 I’m currently studying btech in nmims, mumbai.<br>💞️ I’m looking to collaborate on coding projects that are about developement.<br>📫 How to reach me at abizermasavi@gmail.com, or Abizer Masavi on linkedin.<br>LeetCode Profile - https://leetcode.com/u/abizer_masavi/<br>Hackerrank Profile - https://www.hackerrank.com/dashboard<br>About me -<br>I'm a B.Tech student majoring in Computer Science and Business Systems at MPSTME, deeply passionate about technology and innovation. With a background in public speaking,event management, and dlebating, I've honed my skills as the Cultural Captain at Diamond Jubilee High School. I'm committed to leveraging my diverse experiences to drive technological advancements and make a meaningful impact.
 
 
 ## 🌐 Socials:
