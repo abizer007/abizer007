@@ -128,7 +128,8 @@
 </p>
 
 <p align="center">
-  <em>Crafted with pixels & passion by <b>Abizer Masavi</b> — <a href="https://retrorepo.vercel.app">RetroRepo</a></em>
+  <em>Crafted with pixels & passion by <b>Abizer Masavi</b> — <a href="https://github.com/abizer007/RetroRepo">RetroRepo</a></em><br/>
+  <sub><a href="https://retrorepo.vercel.app">✨ Try it yourself → Generate your own GitHub Timeline</a></sub>
 </p>
 
 
