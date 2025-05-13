@@ -123,6 +123,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://retrorepo.vercel.app/api/svg/abizer007" alt="abizer007's GitHub Timeline" width="900" />
+</p>
+
+<p align="center">
+  <em>Crafted with pixels & passion by <b>Abizer Masavi</b> — <a href="https://retrorepo.vercel.app">RetroRepo</a></em>
+</p>
 
 
 
