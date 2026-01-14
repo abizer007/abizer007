@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=47F5A9&center=true&width=950&lines=Solving+Problems,+Building+Solutions,+Coding+Dreams." alt="Typing SVG" />
 </p>
-
+-
 <p align="center">
   Finance Enthusiast • Tech Explorer • Aspiring Full Stack Developer
 </p>
