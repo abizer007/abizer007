@@ -113,22 +113,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abizer007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=86400" width="47%"/>
-  <img src="https://streak-stats.demolab.com?user=Abizer007&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=86400" width="47%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abizer007&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abizer007&layout=compact&theme=tokyonight&hide_border=false&langs_count=6&card_width=320&cache_seconds=86400" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abizer007&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abizer007&theme=tokyonight" />
 </p>
 
-
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abizer007&theme=tokyonight" />
+</p>
 ---
 
-### 🔝 Top Contributed Repositories
+### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Abizer007&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&cache_seconds=86400" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abizer007&theme=tokyo-night&hide_border=true" width="90%">
 </p>
 
 ---
