@@ -9,11 +9,7 @@
   Finance Enthusiast • Tech Explorer • Aspiring Full Stack Developer
 </p>
 
-<div align="center">
-  <a href="https://abizer.vercel.app">
-    <img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge&logo=vercel" alt="Visit Portfolio" />
-  </a>
-</div>
+
 
 
 ---
